@@ -1,0 +1,15 @@
+
+*.tlog
+*.log
+*.txt
+*.obj
+*.ipch
+*.db
+*.db-shm
+*.lock
+*.vsidx
+*.opendb
+*.db-wal
+*.idb
+*.pdb
+*.map
